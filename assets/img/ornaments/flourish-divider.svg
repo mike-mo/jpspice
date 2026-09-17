@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40" role="img" aria-label="Ornamental divider">
+  <defs>
+    <path id="dleaf" d="M0 0 C6 -4 16 -4 23 0 C16 4 6 4 0 0 Z"/>
+  </defs>
+  <g stroke="#1b1712" stroke-width="1.2" fill="none" stroke-linecap="round">
+    <line x1="40" y1="20" x2="150" y2="20"/>
+    <line x1="250" y1="20" x2="360" y2="20"/>
+    <path d="M150 20 C160 12 170 12 176 20 C170 28 160 28 150 20 Z"/>
+    <path d="M250 20 C240 12 230 12 224 20 C230 28 240 28 250 20 Z"/>
+  </g>
+  <g fill="#1b1712">
+    <circle cx="40" cy="20" r="2.4"/>
+    <circle cx="360" cy="20" r="2.4"/>
+    <path d="M200 8 C198 14 200 18 200 22" fill="none" stroke="#1b1712" stroke-width="1.2"/>
+    <use href="#dleaf" transform="translate(200 13) rotate(-34) scale(0.6)"/>
+    <use href="#dleaf" transform="translate(200 13) rotate(214) scale(0.6)"/>
+    <use href="#dleaf" transform="translate(200 20) rotate(-46) scale(0.5)"/>
+    <use href="#dleaf" transform="translate(200 20) rotate(226) scale(0.5)"/>
+    <circle cx="200" cy="9" r="2"/>
+  </g>
+</svg>

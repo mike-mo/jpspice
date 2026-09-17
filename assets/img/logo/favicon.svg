@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Just Pure Spice favicon">
+  <rect x="2" y="2" width="60" height="60" rx="11" fill="#f4efe2" stroke="#1b1712" stroke-width="3"/>
+  <g fill="#1b1712">
+    <circle cx="32" cy="15" r="1.8"/>
+    <path d="M32 16 C31 19 32 21 32 23" fill="none" stroke="#1b1712" stroke-width="1.1"/>
+    <path d="M32 18 C29 17 27 16 26 14 C29 14 31 15 32 18 Z"/>
+    <path d="M32 18 C35 17 37 16 38 14 C35 14 33 15 32 18 Z"/>
+  </g>
+  <text x="32" y="46" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="1" fill="#1b1712">JP</text>
+</svg>

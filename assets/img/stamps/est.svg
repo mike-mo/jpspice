@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Established 2024 stamp">
+  <defs>
+    <path id="eTop" d="M 30 100 A 70 70 0 0 1 170 100"/>
+    <path id="eBot" d="M 20 100 A 80 80 0 0 0 180 100"/>
+    <path id="eleaf" d="M0 0 C5 -3.4 13 -3.4 19 0 C13 3.4 5 3.4 0 0 Z"/>
+  </defs>
+  <circle cx="100" cy="100" r="94" fill="none" stroke="#1b1712" stroke-width="2"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#1b1712" stroke-width="0.8"/>
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="2.5" fill="#1b1712">
+    <textPath href="#eTop" startOffset="50%" text-anchor="middle">JUST PURE SPICE</textPath>
+  </text>
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.5" fill="#1b1712">
+    <textPath href="#eBot" startOffset="50%" text-anchor="middle">MADE IN MIAMI</textPath>
+  </text>
+  <g fill="#1b1712">
+    <use href="#eleaf" transform="translate(100 58) rotate(180) scale(0.85)"/>
+    <use href="#eleaf" transform="translate(100 58) scale(0.85)"/>
+    <circle cx="100" cy="58" r="2.2"/>
+  </g>
+  <text x="100" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="19" letter-spacing="4" fill="#1b1712">EST.</text>
+  <text x="100" y="122" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="2" fill="#1b1712">MMXXIV</text>
+</svg>

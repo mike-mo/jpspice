@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" role="img" aria-label="Just Pure Spice wordmark">
+  <defs>
+    <path id="leaf" d="M0 0 C6 -4 15 -4 22 0 C15 4 6 4 0 0 Z"/>
+  </defs>
+  <rect x="12" y="12" width="456" height="196" fill="none" stroke="#1b1712" stroke-width="2"/>
+  <rect x="18" y="18" width="444" height="184" fill="none" stroke="#1b1712" stroke-width="0.8"/>
+  <g fill="#1b1712">
+    <path d="M240 33 C238 44 240 52 240 60" fill="none" stroke="#1b1712" stroke-width="1.4"/>
+    <use href="#leaf" transform="translate(240 43) rotate(-32) scale(0.72)"/>
+    <use href="#leaf" transform="translate(240 51) rotate(-44) scale(0.6)"/>
+    <use href="#leaf" transform="translate(240 43) rotate(212) scale(0.72)"/>
+    <use href="#leaf" transform="translate(240 51) rotate(224) scale(0.6)"/>
+    <circle cx="240" cy="35" r="2.4"/>
+  </g>
+  <text x="240" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="4" fill="#1b1712">CHEF-CREATED SPICE BLENDS</text>
+  <text x="240" y="138" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="1.5" fill="#1b1712">Just Pure Spice</text>
+  <g stroke="#1b1712" stroke-width="1">
+    <line x1="146" y1="162" x2="224" y2="162"/>
+    <line x1="256" y1="162" x2="334" y2="162"/>
+  </g>
+  <rect x="236" y="158" width="8" height="8" transform="rotate(45 240 162)" fill="#1b1712"/>
+  <text x="240" y="187" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="10.5" letter-spacing="3" fill="#1b1712">SMALL BATCH &#160;&#183;&#160; HAND BLENDED &#160;&#183;&#160; EST. MMXXIV</text>
+</svg>

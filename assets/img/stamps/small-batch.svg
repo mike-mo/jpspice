@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Small batch hand blended stamp">
+  <defs>
+    <path id="sTop" d="M 28 100 A 72 72 0 0 1 172 100"/>
+    <path id="sBot" d="M 20 100 A 80 80 0 0 0 180 100"/>
+    <path id="sleaf" d="M0 0 C5 -3.4 13 -3.4 19 0 C13 3.4 5 3.4 0 0 Z"/>
+  </defs>
+  <circle cx="100" cy="100" r="94" fill="none" stroke="#1b1712" stroke-width="2"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#1b1712" stroke-width="0.8"/>
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="4" fill="#1b1712">
+    <textPath href="#sTop" startOffset="50%" text-anchor="middle">SMALL BATCH</textPath>
+  </text>
+  <text font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="3.5" fill="#1b1712">
+    <textPath href="#sBot" startOffset="50%" text-anchor="middle">HAND BLENDED</textPath>
+  </text>
+  <g fill="#1b1712">
+    <rect x="16" y="96" width="8" height="8" transform="rotate(45 20 100)"/>
+    <rect x="176" y="96" width="8" height="8" transform="rotate(45 180 100)"/>
+  </g>
+  <g fill="none" stroke="#1b1712" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(70 72) scale(0.95)">
+    <path d="M13 30 H51"/>
+    <path d="M16 31 a16 14 0 0 0 32 0"/>
+    <path d="M22 30 q10 6 20 0"/>
+    <line x1="41" y1="12" x2="30" y2="29" stroke-width="3"/>
+  </g>
+  <circle cx="112.6" cy="82.4" r="3.4" fill="#1b1712"/>
+</svg>
