@@ -162,6 +162,21 @@ footer { text-align: center; padding: 36px 0 60px; color: var(--ink-soft); font-
 footer .eyebrow { display: block; margin-bottom: 8px; }
 footer .ship-note { margin: 8px 0; font-size: 16px; }
 footer .fine { font-style: italic; }
+.privacy-link {
+  display: inline-flex; align-items: center; min-height: 44px; margin-top: 8px;
+  padding: 6px 12px; font-size: 16px; text-underline-offset: 0.2em;
+}
+.privacy-link:focus-visible, .privacy a:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
+.privacy-link:hover, .privacy a:hover { background: var(--paper); }
+
+.privacy { max-width: 760px; padding-top: 36px; padding-bottom: 48px; overflow-wrap: anywhere; }
+.privacy h1 { font-size: clamp(40px, 7vw, 58px); line-height: 1.15; margin-top: 8px; }
+.privacy-intro { color: var(--ink-soft); }
+.privacy section { margin-top: 32px; padding-top: 28px; border-top: 1px solid var(--line); }
+.privacy h2 { font-size: clamp(26px, 4vw, 32px); line-height: 1.2; }
+.privacy a { text-underline-offset: 0.2em; }
+.privacy-home { margin: 36px 0 0; }
+.privacy-home a { display: inline-flex; align-items: center; min-height: 44px; }
 
 /* ---------- Responsive ---------- */
 @media (max-width: 720px) {
